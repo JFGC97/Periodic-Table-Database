@@ -3,7 +3,7 @@
 
 periodic_table.sql - Script in SQL to build the periodic table
 
-* All tasks solved in this database dump
+* All tasks below were solved in this database dump
 
     You should rename the weight column to atomic_mass
     
